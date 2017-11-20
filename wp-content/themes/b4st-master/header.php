@@ -11,7 +11,7 @@
 	<meta property="og:title" content="Create your Zwift custom online"/>
 	<meta property="og:description" content="Finally an easy way to create custom workout!"/>
 	<meta property="og:site_name" content="CustomWorkout.cc"/>
-	<meta property="og:image" content="<?php echo get_stylesheet_directory_uri(); ?>/img/cwcc_og.jpg"/>
+	<meta property="og:image" content="<?php echo get_stylesheet_directory_uri(); ?>/img/og-image.jpg"/>
 	<meta property="og:locale" content="en_US"/>
 
   	<link rel="shortcut icon" href="<?php echo get_stylesheet_directory_uri(); ?>/img/favicon.png" /> <!-- 192x192 Google -->
