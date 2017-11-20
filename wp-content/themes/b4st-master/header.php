@@ -9,10 +9,11 @@
   	<meta property="og:url" content="http://www.customworkout.cc/"/>
 	<meta property="og:type" content="product" />
 	<meta property="og:title" content="Create your Zwift custom workout online!"/>
+	<meta property="og:image" content="<?php echo get_stylesheet_directory_uri(); ?>/img/og-image.jpg"/>
 	<meta property="og:description" content="Finally an easy way to create custom workout."/>
 	<meta property="og:site_name" content="CustomWorkout.cc"/>
-	<meta property="og:image" content="<?php echo get_stylesheet_directory_uri(); ?>/img/og-image.jpg"/>
 	<meta property="og:locale" content="en_US"/>
+	<meta name="fb:app_id" content="188685161691889" />
 
   	<link rel="shortcut icon" href="<?php echo get_stylesheet_directory_uri(); ?>/img/favicon.png" /> <!-- 192x192 Google -->
   	<link rel="apple-touch-icon" href="<?php echo get_stylesheet_directory_uri(); ?>/img/favicon_180.png" /> <!-- 180x180 Apple -->
