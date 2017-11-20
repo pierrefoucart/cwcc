@@ -1,0 +1,88 @@
+.icon-feature-1 {
+	width: 88px;
+	height: 88px;
+	background-color: white;
+	-webkit-mask: url("../../img/icon-build.svg") no-repeat center;
+	mask: url("../../img/icon-generate.svg") no-repeat center;
+}
+
+.icon-feature-2 {
+	width: 88px;
+	height: 88px;
+	background-color: white;
+	-webkit-mask: url("../../img/icon-generate.svg") no-repeat center;
+	mask: url("../../img/icon-generate.svg") no-repeat center;
+}
+
+.icon-feature-3 {
+	width: 88px;
+	height: 88px;
+	background-color: white;
+	-webkit-mask: url("../../img/icon-share.svg") no-repeat center;
+	mask: url("../../img/icon-share.svg") no-repeat center;
+}
+
+.icon-down {
+	width: 16px;
+	height: 16px;
+	background-color: #7839ae;
+	display: block;
+	-webkit-mask: url("../../img/ic_arrow_downward_black_24px.svg") no-repeat center;
+	mask: url("../../img/ic_arrow_downward_black_24px.svg") no-repeat center;
+}
+
+.icon-up {
+	width: 16px;
+	height: 16px;
+	background-color: #7839ae;
+	display: block;
+	-webkit-mask: url("../../img/ic_arrow_upward_black_24px.svg") no-repeat center;
+	mask: url("../../img/ic_arrow_upward_black_24px.svg") no-repeat center;
+}
+
+.icon-delete {
+	width: 16px;
+	height: 16px;
+	background-color: #7839ae;
+	display: block;
+	-webkit-mask: url("../../img/ic_close_black_24px.svg") no-repeat center;
+	mask: url("../../img/ic_close_black_24px.svg") no-repeat center;
+}
+
+.section-inverse {
+	background-color: #f7f7f7;
+}
+
+.mt-1,.my-1{margin-top:8px!important}
+.mb-1,.my-1{margin-bottom:8px!important}
+.ml-1,.mx-1{margin-left:8px!important}
+.mr-1,.mx-1{margin-right:8px!important}
+
+.mt-4,.my-1{margin-top:32px!important}
+.mb-4,.my-1{margin-bottom:32px!important}
+
+.pt-5,.py-5{padding-top:40px!important}
+.pb-5,.py-5{padding-bottom:40px!important}
+
+.mt-6,.my-5{margin-top:48px!important}
+.mb-6,.my-5{margin-bottom:48px!important}
+
+.pt-8,.py-8{padding-top:64px!important}
+.pb-8,.py-8{padding-bottom:64px!important}
+
+.pt-9,.py-9{padding-top:72px!important}
+.pb-9,.py-9{padding-bottom:72px!important}
+
+.pt-10,.py-10{padding-top:80px!important}
+.pb-10,.py-10{padding-bottom:80px!important}
+
+.pt-11,.py-11{padding-top:88px!important}
+.pb-11,.py-11{padding-bottom:88px!important}
+
+.pt-13,.py-13{padding-top:104px!important}
+.pb-13,.py-13{padding-bottom:104px!important}
+
+.btn {
+  text-transform: uppercase;
+  cursor: pointer;
+}
