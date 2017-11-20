@@ -6,6 +6,17 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
   	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+  	<meta property="og:url" content="http://www.customworkout.cc/"/>
+	<meta property="og:type" content="product" />
+	<meta property="og:title" content="Create your Zwift custom online"/>
+	<meta property="og:description" content="Finally an easy way to create custom workout!"/>
+	<meta property="og:site_name" content="CustomWorkout.cc"/>
+	<meta property="og:image" content="<?php echo get_stylesheet_directory_uri(); ?>/img/cwcc_og.jpg"/>
+	<meta property="og:locale" content="en_US"/>
+
+  	<link rel="shortcut icon" href="<?php echo get_stylesheet_directory_uri(); ?>/img/favicon.png" /> <!-- 192x192 Google -->
+  	<link rel="apple-touch-icon" href="<?php echo get_stylesheet_directory_uri(); ?>/img/favicon_180.png" /> <!-- 180x180 Apple -->
+
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-344455-10"></script>
 	<script>
