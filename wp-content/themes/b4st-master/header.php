@@ -8,8 +8,8 @@
 
   	<meta property="og:url" content="http://www.customworkout.cc/"/>
 	<meta property="og:type" content="product" />
-	<meta property="og:title" content="Create your Zwift custom online"/>
-	<meta property="og:description" content="Finally an easy way to create custom workout!"/>
+	<meta property="og:title" content="Create your Zwift custom workout online!"/>
+	<meta property="og:description" content="Finally an easy way to create custom workout."/>
 	<meta property="og:site_name" content="CustomWorkout.cc"/>
 	<meta property="og:image" content="<?php echo get_stylesheet_directory_uri(); ?>/img/og-image.jpg"/>
 	<meta property="og:locale" content="en_US"/>
