@@ -1,0 +1,149 @@
+# Translation of Themes - Simple Bootstrap in English (Canada)
+# This file is distributed under the same license as the Themes - Simple Bootstrap package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-04-08 19:45:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_CA\n"
+"Project-Id-Version: Themes - Simple Bootstrap\n"
+
+#. Description of the plugin/theme
+msgid "Simple and clean Wordpress theme mostly aimed as a starting point for developers to build their own themes using Bootstrap"
+msgstr "Simple and clean WordPress theme mostly aimed as a starting point for developers to build their own themes using Bootstrap"
+
+#. Theme Name of the plugin/theme
+msgid "Simple Bootstrap"
+msgstr "Simple Bootstrap"
+
+#: footer.php:12
+msgid "Simple Bootstrap theme by <a href=\"https://github.com/nicolas-van\">@nicolas-van</a>"
+msgstr "Simple Bootstrap theme by <a href=\"https://github.com/nicolas-van\">@nicolas-van</a>"
+
+#. Template Name of the plugin/theme
+msgid "Full Width Page"
+msgstr "Full Width Page"
+
+#: single.php:17
+msgid "Next Post"
+msgstr "Next Post"
+
+#: single.php:16
+msgid "Previous Post"
+msgstr "Previous Post"
+
+#: searchform.php:4 searchform.php:6
+msgid "Search"
+msgstr "Search"
+
+#: search.php:8
+msgctxt "label"
+msgid "Search for:"
+msgstr "Search for:"
+
+#: page-full-width.php:24 page.php:18
+msgid "No pages found."
+msgstr "No pages found."
+
+#: index.php:20 single.php:27
+msgid "No posts found."
+msgstr "No posts found."
+
+#: image.php:53
+msgid "Next &raquo;"
+msgstr "Next &raquo;"
+
+#: image.php:52
+msgid "&laquo; Previous"
+msgstr "&laquo; Previous"
+
+#: header.php:23
+msgid "Navigation"
+msgstr "Navigation"
+
+#: functions.php:230
+msgid "Newer posts"
+msgstr "Newer posts"
+
+#: functions.php:229
+msgid "Older posts"
+msgstr "Older posts"
+
+#: functions.php:215
+msgid "Edit"
+msgstr "Edit"
+
+#: functions.php:211
+msgid "% Comments"
+msgstr "% Comments"
+
+#: functions.php:211
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: functions.php:211
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#: functions.php:90
+msgid "Footer"
+msgstr "Footer"
+
+#: functions.php:80
+msgid "Left Sidebar"
+msgstr "Left Sidebar"
+
+#: functions.php:72 functions.php:81
+msgid "Used on every page."
+msgstr "Used on every page."
+
+#: functions.php:71
+msgid "Right Sidebar"
+msgstr "Right Sidebar"
+
+#: functions.php:32
+msgid "Main Menu"
+msgstr "Main menu"
+
+#: footer.php:13
+msgid "Powered by WordPress"
+msgstr "Powered by WordPress"
+
+#: comments.php:31
+msgid "Newer Comments &raquo;"
+msgstr "Newer Comments &raquo;"
+
+#: comments.php:30
+msgid "&laquo; Older Comments"
+msgstr "&laquo; Older Comments"
+
+#: comments.php:17
+msgid "Comments"
+msgstr "Comments"
+
+#: comments.php:5
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "This post is password protected. Enter the password to view comments."
+
+#: archive.php:26 attachment.php:18 image.php:66 search.php:26
+msgid "No items found."
+msgstr "No items found."
+
+#: 404.php:12
+msgid "Page not found"
+msgstr "Page not found"
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/nicolas-van"
+msgstr "https://github.com/nicolas-van"
+
+#. Author of the plugin/theme
+msgid "Nicolas Vanhoren"
+msgstr "Nicolas Vanhoren"
+
+#. Theme URI of the plugin/theme
+msgid "https://github.com/nicolas-van/wordpress-simple-bootstrap"
+msgstr "https://github.com/nicolas-van/wordpress-simple-bootstrap"
