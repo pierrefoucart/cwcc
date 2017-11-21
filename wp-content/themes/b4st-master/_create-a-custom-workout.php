@@ -1,12 +1,13 @@
 <?php
-	
 /*
- * Template Name: Create a custom workouts
+ * Template Name: Create a custom workout
 */
 
 get_header();
 
 ?>
+<?php do_action( 'wordpress_social_login' ); ?> 
+
 	<div id="primary" class="header-small pb-10">
 		<div class="container">
 			<div class="row">
