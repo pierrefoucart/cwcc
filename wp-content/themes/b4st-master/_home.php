@@ -11,7 +11,7 @@ get_header();
 <div class="jumbotron">
 	<div class="container">
 		<div class="row">
-			<div class="col-8 offset-2">
+			<div class="col-md-8 offset-md-2">
 				<h1><span class="site-title small">Finally an easy way to</span>
 				<span class="site-title">create custom workouts!</span></h1>
 				<div class="buttons text-center">
@@ -25,7 +25,7 @@ get_header();
 <section class="pt-9 pb-11">
 	<div class="container">
 		<div class="row">
-			<div class="col-8 offset-2">
+			<div class="col-md-8 offset-md-2">
 				<h2>Features</h2>
 				<h5 class="text-center pb-9">Tired to use Zwift complex user interface to create workouts? Not a pro at editing .zwo files? Here is your solution.
 No coding knowledge or crazy mouse handling skills required!</h5>
