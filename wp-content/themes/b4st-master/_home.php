@@ -36,21 +36,21 @@ No coding knowledge or crazy mouse handling skills required!</h5>
 				<div class="rounded-circle mx-auto">
 					<div class="icon-feature-1"></div>
 				</div>
-				<h3 class="text-center">Easy to create</h3>
+				<h3 class="text-center mt-1">Easy to create</h3>
 				<p class="text-center">No need to dig in obscure files. No need to play with Zwift complex interface.</p>
 			</div>
 			<div class="col-md-4 text-center">
 				<div class="rounded-circle mx-auto">
 					<div class="icon-feature-2"></div>
 				</div>
-				<h3 class="text-center">Export as .zwo file</h3>
+				<h3 class="text-center mt-1">Export as .zwo file</h3>
 				<p class="text-center">We generate the file format you&#039;ll have to copy/paste in your Zwift folder.</p>
 			</div>
 			<div class="col-md-4 text-center">
 				<div class="rounded-circle mx-auto">
 					<div class="icon-feature-3"></div>
 				</div>
-				<h3 class="text-center">Share your workout</h3>
+				<h3 class="text-center mt-1">Share your workout</h3>
 				<p class="text-center">Whereas it is with friends or team mates you can share your workout with everyone.</p>
 			</div>
 		</div>

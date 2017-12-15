@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>56x56/textevent</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="56x56/textevent">
+            <rect id="56x56" x="0" y="0" width="56" height="56" rx="2"></rect>
+            <g id="ic_textsms_black_24px" transform="translate(17.000000, 14.000000)">
+                <path d="M19.8,0 L2.2,0 C0.99,0 0.011,0.99 0.011,2.2 L7.10542736e-15,22 L4.4,17.6 L19.8,17.6 C21.01,17.6 22,16.61 22,15.4 L22,2.2 C22,0.99 21.01,0 19.8,0 Z" id="Path" stroke="#FFFFFF" stroke-width="2"></path>
+                <polygon id="Path" fill="#FFFFFF" points="8.9375 10.3125 6.875 10.3125 6.875 8.25 8.9375 8.25"></polygon>
+                <polygon id="Path" fill="#FFFFFF" points="12.375 10.3125 10.3125 10.3125 10.3125 8.25 12.375 8.25"></polygon>
+                <polygon id="Path" fill="#FFFFFF" points="15.8125 10.3125 13.75 10.3125 13.75 8.25 15.8125 8.25"></polygon>
+            </g>
+            <text id="TEXT-EVENT" font-family="Montserrat-Regular, Montserrat" font-size="8" font-weight="normal" fill="#FFFFFF">
+                <tspan x="4" y="49">TEXT EVENT</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

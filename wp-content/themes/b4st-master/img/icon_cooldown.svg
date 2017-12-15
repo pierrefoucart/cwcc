@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>56x56/cooldown</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="56x56/cooldown">
+            <rect id="56x56" x="0" y="0" width="56" height="56" rx="2"></rect>
+            <path d="M7,9.45840695 L7,35 L49,35 L49,25.6856797 L7,9.45840695 Z" id="cool-down" stroke="#FFFFFF" stroke-width="2"></path>
+            <text id="COOL-DOWN" font-family="Montserrat-Regular, Montserrat" font-size="8" font-weight="normal" fill="#FFFFFF">
+                <tspan x="2.1" y="49">COOL DOWN</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
